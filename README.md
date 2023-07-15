@@ -8,7 +8,7 @@ The Vietnamese stock market is a challenge for applying algorithmic trading. How
 
 Publisher: 2022 RIVF International Conference on Computing and Communication Technologies (RIVF)
 
-For more information,  please follow this [link]([url](https://ieeexplore.ieee.org/abstract/document/10013836))
+For more information,  please follow this [link](https://ieeexplore.ieee.org/abstract/document/10013836)
 
 ## Notes
 - Our source code is implemented in the Collaboratory of Google.
